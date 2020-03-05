@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = "u'Scipy Japan 運営マニュアル'"
-copyright = '2020, Tetsuo Koyama'
-author = 'Tetsuo Koyama'
+copyright = '2020, Scipy Japan'
+author = 'Scipy Japan'
 
 # The full version, including alpha/beta/rc tags
 release = '0.1'
