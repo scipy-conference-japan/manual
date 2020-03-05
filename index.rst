@@ -3,13 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to u'Scipy Japan 運営マニュアル''s documentation!
-=========================================================
+Scipy Japan 運営マニュアル
+==========================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
+   staff/index
 
 
 Indices and tables
