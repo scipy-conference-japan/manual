@@ -34,4 +34,4 @@
 =======
 その他
 =======
-SciPyでは運営チーム全体（Chairs＋Program・TutorialChairs ＋他のまとめ役）を含めてorganizing committee と呼んでいます。
+SciPyJPでは運営チーム全体（Chairs＋Program・TutorialChairs ＋他のまとめ役）を含めてorganizing committee と呼んでいます。
