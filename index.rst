@@ -7,6 +7,7 @@ Scipy Japan 運営マニュアル
 ==========================
 
 .. toctree::
+   calendar
    staff/index
 
 
