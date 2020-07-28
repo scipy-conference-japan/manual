@@ -6,3 +6,6 @@
 ![GitHub stars](https://img.shields.io/github/stars/scipy-conference-japan/manual?style=social)
 
 SciPy Japan organizers manual
+<p align="center">
+  <a href="https://raw.githubusercontent.com/scipy-conference-japan/manual/master/images/ScipyJapanLogo.svg"><img alt="heart" src="https://raw.githubusercontent.com/scipy-conference-japan/manual/master/images/ScipyJapanLogo.svg" width="20%"></a>
+</p>
